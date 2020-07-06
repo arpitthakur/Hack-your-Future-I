@@ -36,3 +36,12 @@ img{
     li{
         list-style:none;
     }
+    .alert-error{
+        margin-top:2px;
+        padding:20px;
+        padding-left:25px;
+        border-radius:6px;
+        color:brown;
+        background-color: #F0C6CA;
+
+    }
