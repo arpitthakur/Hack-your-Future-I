@@ -7,3 +7,7 @@
 <title>Hack Your Repo I</title>
 <link rel="stylesheet"href="./style.css">
 </head>
+<body>
+  <div id="root"></div>
+  <script src="./index.js"></script>
+</body>
