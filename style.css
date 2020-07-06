@@ -29,3 +29,8 @@ img{
         box-shadow:0px 3px 3px rgb(179,178,178);
         color:#333;
     }
+    th{
+        width:10%;
+        padding:3px;
+    }
+    
