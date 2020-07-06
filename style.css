@@ -33,4 +33,6 @@ img{
         width:10%;
         padding:3px;
     }
-    
+    li{
+        list-style:none;
+    }
