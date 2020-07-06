@@ -13,3 +13,19 @@ img{
     body{
         padding:25px;
     }
+    h3{
+        font-weight:lighter;
+        background-color: #253DC5;
+        padding:35px;
+        padding-left:25px;
+        color:whitesmoke;
+    }
+    table{
+        width:100%;
+        margin-top:3px;
+        padding:20px;
+        border:1px solid rgb(240,240,240);
+        border-radius:4px;
+        box-shadow:0px 3px 3px rgb(179,178,178);
+        color:#333;
+    }
